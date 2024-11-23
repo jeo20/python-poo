@@ -1,0 +1,74 @@
+Glosario de Programación Orientada a Objetos
+Conceptos Fundamentales
+
+Objeto: Instancia de una clase. Representa una entidad del mundo real con propiedades (atributos) y comportamientos (métodos).
+Clase: Plantilla o blueprint que define las características comunes de un conjunto de objetos.
+Instancia: Creación de un objeto a partir de una clase.
+Atributo: Propiedad de un objeto. Representa un dato asociado al objeto.
+Método: Función asociada a un objeto. Define el comportamiento del objeto.
+
+Principios de la POO
+Abstracción: Capturar las características esenciales de un objeto, ignorando los detalles innecesarios.
+Encapsulación: Ocultar los detalles internos de un objeto, exponiendo solo una interfaz para interactuar con él.
+Herencia: Crear nuevas clases (subclases) a partir de clases existentes (superclases), heredando sus atributos y métodos.
+Polimorfismo: Capacidad de un objeto de tomar múltiples formas, dependiendo del contexto.
+
+Otros Términos Clave
+Constructor: Método especial que se ejecuta automáticamente al crear un objeto. Inicializa los atributos del objeto.
+Destructor: Método especial que se ejecuta automáticamente al destruir un objeto. Libera los recursos utilizados por el objeto.
+Objeto: Instancia de una clase. Representa una entidad del mundo real con propiedades (atributos) y comportamientos (métodos).
+Clase: Plantilla o blueprint que define las características comunes de un conjunto de objetos.
+Instancia: Creación de un objeto a partir de una clase.
+Atributo: Propiedad de un objeto. Representa un dato asociado al objeto.
+Método: Función asociada a un objeto. Define el comportamiento del objeto.
+Encapsulación: Ocultar los detalles internos de un objeto, exponiendo solo una interfaz para interactuar con él.
+Herencia: Crear nuevas clases (subclases) a partir de clases existentes (superclases), heredando sus atributos y métodos.
+Polimorfismo: Capacidad de un objeto de tomar múltiples formas, dependiendo del contexto.
+Constructor: Método especial que se ejecuta automáticamente al crear un objeto. Inicializa los atributos del objeto.
+Destructor: Método especial que se ejecuta automáticamente al destruir un objeto. Libera los recursos utilizados por el objeto.
+Sobrecarga de métodos: Definir múltiples métodos con el mismo nombre pero diferentes parámetros.
+Sobreescritura de métodos: Redefinir un método heredado en una subclase.
+Interfaz: Especifica un contrato que una clase debe cumplir, definiendo un conjunto de métodos sin implementación.
+Abstracción: Capturar las características esenciales de un objeto, ignorando los detalles innecesarios.
+Polimorfismo: Capacidad de un objeto de tomar múltiples formas, dependiendo del contexto.
+Herencia: Crear nuevas clases (subclases) a partir de clases existentes (superclases), heredando sus atributos y métodos.
+Encapsulación: Ocultar los detalles internos de un objeto, exponiendo solo una interfaz para interactuar con él.
+Objeto: Instancia de una clase. Representa una entidad del mundo real con propiedades (atributos) y comportamientos (métodos).
+Clase: Plantilla o blueprint que define las características comunes de un conjunto de objetos.
+Instancia: Creación de un objeto a partir de una clase.
+Atributo: Propiedad de un objeto. Representa un dato asociado al objeto.
+Método: Función asociada a un objeto. Define el comportamiento del objeto.
+Constructor: Método especial que se ejecuta automáticamente al crear un objeto. Inicializa los atributos del objeto.
+Destructor: Método especial que se ejecuta automáticamente al destruir un objeto. Libera los recursos utilizados por el objeto.
+Sobrecarga de métodos: Definir múltiples métodos con el mismo nombre pero diferentes parámetros.
+Sobreescritura de métodos: Redefinir un método heredado en una subclase.
+Interfaz: Especifica un contrato que una clase debe cumplir, definiendo un conjunto de métodos sin implementación.
+Abstracción: Capturar las características esenciales de un objeto, ignorando los detalles innecesarios.
+Polimorfismo: Capacidad de un objeto de tomar múltiples formas, dependiendo del contexto.
+Herencia: Crear nuevas clases (subclases) a partir de clases existentes (superclases), heredando sus atributos y métodos.
+Encapsulación: Ocultar los detalles internos de un objeto, exponiendo solo una interfaz para interactuar con él.
+Objeto: Instancia de una clase. Representa una entidad del mundo real con propiedades (atributos) y comportamientos (métodos).
+Clase: Plantilla o blueprint que define las características comunes de un conjunto de objetos.
+Instancia: Creación de un objeto a partir de una clase.
+Atributo: Propiedad de un objeto. Representa un dato asociado al objeto.
+Método: Función asociada a un objeto. Define el comportamiento del objeto.
+Constructor: Método especial que se ejecuta automáticamente al crear un objeto. Inicializa los atributos del objeto.
+Destructor: Método especial que se ejecuta automáticamente al destruir un objeto. Libera los recursos utilizados por el objeto.
+Sobrecarga de métodos: Definir múltiples métodos con el mismo nombre pero diferentes parámetros.
+Sobreescritura de métodos: Redefinir un método heredado en una subclase.
+Interfaz: Especifica un contrato que una clase debe cumplir, definiendo un conjunto de métodos sin implementación.
+
+Conceptos Avanzados
+Asociación: Relación entre dos o más clases.
+Agregación: Tipo de asociación en la que un objeto es parte de otro.
+Composición: Tipo de asociación en la que un objeto está compuesto por otros objetos.
+Delegación: Transferir la responsabilidad de una tarea a otro objeto.
+Patrones de diseño: Soluciones reutilizables a problemas comunes en el diseño de software.
+¿Quieres profundizar en algún concepto en particular? Puedo explicarte con más detalle cualquier término o proporcionarte ejemplos prácticos en un lenguaje de programación específico (como Java, Python, C++ o otros).
+
+Además, puedo ayudarte con:
+
+Ejemplos de código: Te mostraré cómo aplicar estos conceptos en código.
+Comparaciones: Te ayudaré a entender las diferencias entre conceptos similares.
+Resolución de problemas: Si tienes alguna duda o problema con tu código, estaré encantado de ayudarte.
+¿Qué te gustaría aprender a continuación?

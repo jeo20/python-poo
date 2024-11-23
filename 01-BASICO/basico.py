@@ -2,7 +2,7 @@
 # INICIO CLASE CELULAR
 
 class Celular():  # Definicion clase Celular
-    def __init__(self, marca, modelo, camara):  # constructor __init__ y definicion de atributos
+    def __init__(self, marca, modelo, camara):  # constructor __init__
         self.marca = marca  # atributo marca
         self.modelo = modelo  # atributo modelo
         self.camara = camara  # atributo camara
@@ -23,7 +23,7 @@ celular1 = Celular("Samsung", "S23", "48MP")
 # creando una instancia celular2 de la clase Celular y defino los atributos
 celular2 = Celular("Apple", "Iphone 15 Pro", "56MP")
 
-# INVOCANDO UN METODO DE LA CLASE CELULAR ###
+# INVOCANDO UN METODO DE LA CLASE CELULAR
 
 celular1.llamar()  # invoco al metodo llamar de la clase Celular
 #  Estas realizando una llamada desde: Samsung S23
